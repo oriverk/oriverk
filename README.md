@@ -5,7 +5,7 @@
 
 ## Features
 - Ba.Agr
-  - graduation thesis was about automatic weeding robot by image processing with C++
+  - thesis was about automatic weeding robot with image processing
  - I love bicycle
  - did working holiday in Australia
  - now studying Ruby, React and blah-blah-blah (*anything
