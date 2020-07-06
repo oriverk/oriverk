@@ -8,14 +8,14 @@
   - graduation thesis was about automatic weeding robot by image processing with C++
  - I love bicycle
  - did working holiday in Australia
- - now am studying Ruby, React and blah-blah-blah (*anything
- - am unemployed at a monment and **seeking a engineer job**.
+ - now studying Ruby, React and blah-blah-blah (*anything
+ - now unemployed at a monment and **seeking a engineer job**.
  
- ## Contact
- - [website with React, TS, Next.js](https://oriverk.dev)
- - follow me on Twitter [@not_you_die](https://twitter.com/not_you_die)
+## Contact
+- [website with React, TS, Next.js](https://oriverk.dev)
+- follow me on Twitter [@not_you_die](https://twitter.com/not_you_die)
  
-### How's it going? 👋
+## How's it going? 👋
 
 <!--
 **oriverk/oriverk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
