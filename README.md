@@ -3,6 +3,8 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%40not__you__die-blue)](https://twitter.com/not_you_die)
 [![404](https://img.shields.io/badge/404-Job%20not%20found-orange)](https://www.wantedly.com/users/40069986)
 
+You're ![profile-counter](https://profile-counter.glitch.me/oriverk/count.svg)th visitor!
+
 ## Features
 - Ba.Agr
   - thesis was about automatic weeding robot with image processing
@@ -30,4 +32,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+
+<!--
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 -->
