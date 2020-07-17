@@ -4,9 +4,9 @@
 [![404](https://img.shields.io/badge/404-Job%20not%20found-orange)](https://www.wantedly.com/users/40069986)
 
 <div>
-You're
+あなたは
 <img src="https://profile-counter.glitch.me/oriverk/count.svg" alt="" />
-th visitor!
+人目の訪問者です
 </div>
 
 ## Features
