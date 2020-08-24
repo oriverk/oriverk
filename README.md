@@ -22,6 +22,8 @@
 - follow me on Twitter [@not_you_die](https://twitter.com/not_you_die)
  
 ## How's it going? 👋
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oriverk&hide=html)
+![oriverk's ithub stats](https://github-readme-stats.vercel.app/api?username=oriverk&theme=dark&show_icons=true&count_private=true&line_height=40)
 
 <!--
 **oriverk/oriverk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
