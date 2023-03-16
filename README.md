@@ -3,12 +3,6 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%40not__you__die-blue)](https://twitter.com/not_you_die)
 [![404](https://img.shields.io/badge/404-Job%20not%20found-orange)](https://www.wantedly.com/users/40069986)
 
-<div>
-あなたは
-<img src="https://profile-counter.glitch.me/oriverk/count.svg" alt="" />
-人目の訪問者です
-</div>
-
 #### langs
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oriverk&hide=html&layout=compact)
